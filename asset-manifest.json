@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.d51aed65.css",
+    "main.css": "/React-Portfolio/static/css/main.b1ad12fd.css",
     "main.js": "/React-Portfolio/static/js/main.9a785355.js",
     "static/media/yamaokaya.JPG": "/React-Portfolio/static/media/yamaokaya.de4b2dcd916ff25729fb.JPG",
     "static/media/mrfriendly.JPG": "/React-Portfolio/static/media/mrfriendly.25618dfb867e69a85281.JPG",
@@ -24,11 +24,11 @@
     "static/media/mizuki_back.jpg": "/React-Portfolio/static/media/mizuki_back.648ce0145e4912327c55.jpg",
     "static/media/International_Watch_Company_logo.svg": "/React-Portfolio/static/media/International_Watch_Company_logo.ecf0daf36a66048c57cc381e46457693.svg",
     "index.html": "/React-Portfolio/index.html",
-    "main.d51aed65.css.map": "/React-Portfolio/static/css/main.d51aed65.css.map",
+    "main.b1ad12fd.css.map": "/React-Portfolio/static/css/main.b1ad12fd.css.map",
     "main.9a785355.js.map": "/React-Portfolio/static/js/main.9a785355.js.map"
   },
   "entrypoints": [
-    "static/css/main.d51aed65.css",
+    "static/css/main.b1ad12fd.css",
     "static/js/main.9a785355.js"
   ]
 }
