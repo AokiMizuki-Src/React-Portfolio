@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.2c34b08b.css",
-    "main.js": "/React-Portfolio/static/js/main.59e8ba58.js",
+    "main.css": "/React-Portfolio/static/css/main.d51aed65.css",
+    "main.js": "/React-Portfolio/static/js/main.9a785355.js",
     "static/media/yamaokaya.JPG": "/React-Portfolio/static/media/yamaokaya.de4b2dcd916ff25729fb.JPG",
     "static/media/mrfriendly.JPG": "/React-Portfolio/static/media/mrfriendly.25618dfb867e69a85281.JPG",
     "static/media/pumpkin.JPG": "/React-Portfolio/static/media/pumpkin.d9dc25945a141acaf6b1.JPG",
@@ -24,11 +24,11 @@
     "static/media/mizuki_back.jpg": "/React-Portfolio/static/media/mizuki_back.648ce0145e4912327c55.jpg",
     "static/media/International_Watch_Company_logo.svg": "/React-Portfolio/static/media/International_Watch_Company_logo.ecf0daf36a66048c57cc381e46457693.svg",
     "index.html": "/React-Portfolio/index.html",
-    "main.2c34b08b.css.map": "/React-Portfolio/static/css/main.2c34b08b.css.map",
-    "main.59e8ba58.js.map": "/React-Portfolio/static/js/main.59e8ba58.js.map"
+    "main.d51aed65.css.map": "/React-Portfolio/static/css/main.d51aed65.css.map",
+    "main.9a785355.js.map": "/React-Portfolio/static/js/main.9a785355.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c34b08b.css",
-    "static/js/main.59e8ba58.js"
+    "static/css/main.d51aed65.css",
+    "static/js/main.9a785355.js"
   ]
 }
