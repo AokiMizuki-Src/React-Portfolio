@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.2c34b08b.css",
+    "main.js": "/React-Portfolio/static/js/main.59e8ba58.js",
+    "static/media/yamaokaya.JPG": "/React-Portfolio/static/media/yamaokaya.de4b2dcd916ff25729fb.JPG",
+    "static/media/mrfriendly.JPG": "/React-Portfolio/static/media/mrfriendly.25618dfb867e69a85281.JPG",
+    "static/media/pumpkin.JPG": "/React-Portfolio/static/media/pumpkin.d9dc25945a141acaf6b1.JPG",
+    "static/media/potato.JPG": "/React-Portfolio/static/media/potato.d08766ca92aad7cb5c41.JPG",
+    "static/media/nikujaga.jpg": "/React-Portfolio/static/media/nikujaga.30f82ec34253481fbe5d.jpg",
+    "static/media/omotesando.jpg": "/React-Portfolio/static/media/omotesando.e7326e55244645affc3b.jpg",
+    "static/media/yohjiyamamoto_mzk.JPG": "/React-Portfolio/static/media/yohjiyamamoto_mzk.8352d17475f52e3f1284.JPG",
+    "static/media/nasu.jpg": "/React-Portfolio/static/media/nasu.81f9dc743277d62c600e.jpg",
+    "static/media/IWC.jpg": "/React-Portfolio/static/media/IWC.9a2521b18e49fcc10822.jpg",
+    "static/media/roppongi.JPG": "/React-Portfolio/static/media/roppongi.c213a250ab36e2dc3f01.JPG",
+    "static/media/bear.JPG": "/React-Portfolio/static/media/bear.10a5130dae4a312dd7fd.JPG",
+    "static/media/yy_signboard.jpg": "/React-Portfolio/static/media/yy_signboard.731c10c0a521780009db.jpg",
+    "static/media/lemon.jpg": "/React-Portfolio/static/media/lemon.b98633d0fbd4218a4d55.jpg",
+    "static/media/mugcup.jpg": "/React-Portfolio/static/media/mugcup.cf147fdc2b83d1479628.jpg",
+    "static/media/soda.jpg": "/React-Portfolio/static/media/soda.e0837d91cf5ff3b400bb.jpg",
+    "static/media/daikanyama.JPG": "/React-Portfolio/static/media/daikanyama.15e5f4260c20968bbf3a.JPG",
+    "static/media/ikebukuro_senq.JPG": "/React-Portfolio/static/media/ikebukuro_senq.ebd2b16a0d07bf752249.JPG",
+    "static/media/New Piskel_Mizuki_PC.gif": "/React-Portfolio/static/media/New Piskel_Mizuki_PC.7573b9bfd505b8e5b843.gif",
+    "static/media/New Piskel_Mizuki_workout.gif": "/React-Portfolio/static/media/New Piskel_Mizuki_workout.ad562210a9b6a7178df9.gif",
+    "static/media/mizuki_back.jpg": "/React-Portfolio/static/media/mizuki_back.648ce0145e4912327c55.jpg",
+    "static/media/International_Watch_Company_logo.svg": "/React-Portfolio/static/media/International_Watch_Company_logo.ecf0daf36a66048c57cc381e46457693.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.2c34b08b.css.map": "/React-Portfolio/static/css/main.2c34b08b.css.map",
+    "main.59e8ba58.js.map": "/React-Portfolio/static/js/main.59e8ba58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c34b08b.css",
+    "static/js/main.59e8ba58.js"
+  ]
+}
